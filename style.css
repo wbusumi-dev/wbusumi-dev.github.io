@@ -77,12 +77,12 @@ body {
     }
 
     .navbar-brand-title {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
         white-space: normal;
     }
 
     .navbar-brand img {
-        height: 40px;
+        height: 37px;
     }
 
     body {
@@ -1065,4 +1065,5 @@ footer {
         font-size: 16px;
     }
 }
+
 
